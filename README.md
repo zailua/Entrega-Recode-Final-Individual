@@ -15,4 +15,4 @@ Back: https://back-sakura.herokuapp.com --
       https://back-sakura.herokuapp.com/promocoes --
       
 
-Front:https://sakura-react-api-4bcppzkn9-zailua.vercel.app/
+Front: https://sakura-react-api-4bcppzkn9-zailua.vercel.app/
