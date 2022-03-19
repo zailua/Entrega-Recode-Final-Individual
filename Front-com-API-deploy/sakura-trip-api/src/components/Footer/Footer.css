@@ -3,9 +3,10 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #1c1d22;
+  background-color: #02002f;
   color: #777;
   text-align: center;
+  display: hidden;
 }
 
 @media (max-width: 852px){
