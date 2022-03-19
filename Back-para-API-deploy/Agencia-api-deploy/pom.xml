@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.site</groupId>
-	<artifactId>bookstore</artifactId>
+	<artifactId>Agencia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookstore</name>
+	<name>Agencia</name>
 	<description>Demo project for Spring Boot</description>
 	<dependencies>
 		<dependency>
