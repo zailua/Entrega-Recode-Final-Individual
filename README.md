@@ -1,13 +1,17 @@
-# Entrega-Final-Individual
- é isso
+# Getting Started
+Clone the repository with git. You will need node.js
 
-VERIFICAR se o yarn está instalado, caso não "yarn install"
-para dar "Start" no projeto é com "yarn dev" 
+## Run
+#### Step 
+1 Install npm, you can install yarn too.
+
+#### Step 2
+in the project directory, use: npm start or yarn start
 
 
 
 
-Link dos Deploys:
+### Link dos Deploys:
 
 Back: https://back-sakura.herokuapp.com --
       https://back-sakura.herokuapp.com/destinos --
